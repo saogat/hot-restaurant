@@ -10,6 +10,9 @@
   "author": "Saogat",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "twilio": "^3.14.0"
   }
 }
